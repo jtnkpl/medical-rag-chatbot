@@ -1,0 +1,11 @@
+{
+    "indexed_files": {
+        "The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND.pdf": {
+            "file_size_mb": 11.66,
+            "ingestion_timestamp": "2026-06-12T05:02:51.984054",
+            "chunks_count": 7080
+        }
+    },
+    "total_chunks": 7080,
+    "last_updated": "2026-06-12T05:02:51.984054"
+}
